@@ -1,1 +1,1 @@
-#Empty notes .. nothing there yet
+#We made changes to the notes file
